@@ -58,6 +58,9 @@ function App() {
           demand...
         </p>
       </div>
+      <div className="hello-world-container">
+        <h2>Hello World</h2>
+      </div>
       <form onSubmit={onSubmit} className="form-container">
         <div className="search-container">
           <input
